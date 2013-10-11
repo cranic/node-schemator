@@ -1,0 +1,15 @@
+{
+  "name": "schemator",
+  "version": "0.0.2",
+  "description": "Object validation and sanitization.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Hoffmeister <contato@cranic.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "~0.2.9",
+    "dotty": "0.0.2"
+  }
+}
