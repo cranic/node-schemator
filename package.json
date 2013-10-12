@@ -1,6 +1,6 @@
 {
   "name": "schemator",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Object validation and sanitization.",
   "main": "./lib/index.js",
   "scripts": {
