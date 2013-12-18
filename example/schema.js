@@ -1,3 +1,5 @@
+// Exemplo antigo
+
 var schema = require('../');
 schema.schema({
     name : {

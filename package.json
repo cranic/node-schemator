@@ -11,7 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "async": "~0.2.9",
-    "dotty": "~0.0.2"
+    "dotty": "~0.0.2",
+    "deepmerge": "~0.2.7"
   },
   "devDependencies": {
     "mocha": "~1.15.1",

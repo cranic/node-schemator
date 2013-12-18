@@ -1,3 +1,5 @@
+// testando o hook com o travis
+
 var should = require('should');
 
 describe('General', function(){
