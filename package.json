@@ -1,15 +1,21 @@
 {
   "name": "schemator",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Object validation and sanitization.",
+  "homepage": "http://github.com/cranic/schemator",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "author": "Alan Hoffmeister <contato@cranic.com.br>",
   "license": "MIT",
   "dependencies": {
     "async": "~0.2.9",
-    "dotty": "0.0.2"
+    "dotty": "~0.0.2"
+  },
+  "devDependencies": {
+    "mocha": "~1.15.1",
+    "yuidocjs": "~0.3.46",
+    "should": "~2.1.1"
   }
 }
