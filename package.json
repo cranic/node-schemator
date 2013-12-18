@@ -8,6 +8,10 @@
     "test": "make test"
   },
   "author": "Alan Hoffmeister <contato@cranic.com.br>",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/cranic/node-schemator.git"
+  },
   "license": "MIT",
   "dependencies": {
     "async": "~0.2.9",

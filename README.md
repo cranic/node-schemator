@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/cranic/node-schemator.png)](https://travis-ci.org/cranic/node-schemator)
-![Dependencies Status](https://david-dm.org/cranic/node-schemator.png)
-[![Gittip](http://img.shields.io/gittip/cranic.png)](https://www.gittip.com/cranic)
+[![Build Status](https://travis-ci.org/cranic/node-schemator.png)](https://travis-ci.org/cranic/node-schemator) ![Dependencies Status](https://david-dm.org/cranic/node-schemator.png) [![Gittip](http://img.shields.io/gittip/cranic.png)](https://www.gittip.com/cranic)
 
 [![NPM Status](https://nodei.co/npm/schemator.png?downloads=true)](http://npmjs.org/package/schemator)
 
