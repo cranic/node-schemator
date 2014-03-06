@@ -10,4 +10,4 @@ doc:
 	@./node_modules/.bin/yuidoc lib \
 	        -o ./doc
 
-.PHONY: test
+.PHONY: test doc
